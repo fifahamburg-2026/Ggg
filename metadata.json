@@ -1,0 +1,7 @@
+{
+  "name": "Offline Translator",
+  "description": "مترجم عربي - إنجليزي فوري يعمل كلياً بدون اتصال بالإنترنت مع قاموس وعبارات مدمجة لسرعة فائقة وخصوصية تامة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
